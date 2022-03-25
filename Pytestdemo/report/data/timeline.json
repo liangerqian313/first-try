@@ -1,0 +1,174 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "小扁豆",
+    "children" : [ {
+      "name" : "4444-MainThread",
+      "children" : [ {
+        "name" : "test01",
+        "uid" : "646164bf167a9652",
+        "parentUid" : "8dbe99a6ed45dda5ff4f60c7aea8dc52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647787904809,
+          "stop" : 1647787904809,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test04",
+        "uid" : "6af3f755f715cb90",
+        "parentUid" : "8dbe99a6ed45dda5ff4f60c7aea8dc52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647787904811,
+          "stop" : 1647787904811,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test03",
+        "uid" : "e5d1ccc17218c14d",
+        "parentUid" : "8dbe99a6ed45dda5ff4f60c7aea8dc52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647787904810,
+          "stop" : 1647787904810,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test02",
+        "uid" : "670a09909ba138b6",
+        "parentUid" : "8dbe99a6ed45dda5ff4f60c7aea8dc52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647787904807,
+          "stop" : 1647787904807,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8dbe99a6ed45dda5ff4f60c7aea8dc52"
+    }, {
+      "name" : "10344-MainThread",
+      "children" : [ {
+        "name" : "正常流程",
+        "uid" : "cd03e7dc2bfabfa2",
+        "parentUid" : "9ab7dc4eb93b8e6bbed4db6ee4e11ab1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647925823206,
+          "stop" : 1647925823238,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<comm.excel_Utils.CaseData object at 0x0000024E85C1DA60>" ]
+      } ],
+      "uid" : "9ab7dc4eb93b8e6bbed4db6ee4e11ab1"
+    }, {
+      "name" : "5428-MainThread",
+      "children" : [ {
+        "name" : "test03",
+        "uid" : "69a6ea8b6b77c8c1",
+        "parentUid" : "55d7971f5d61c28b9791925469113008",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647786061447,
+          "stop" : 1647786061447,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test02",
+        "uid" : "1b4cacce9e515bee",
+        "parentUid" : "55d7971f5d61c28b9791925469113008",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647786061443,
+          "stop" : 1647786061443,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "c8aed5a91a2c842c",
+        "parentUid" : "55d7971f5d61c28b9791925469113008",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647786061445,
+          "stop" : 1647786061445,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test04",
+        "uid" : "8ccab704069bead",
+        "parentUid" : "55d7971f5d61c28b9791925469113008",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647786061448,
+          "stop" : 1647786061448,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55d7971f5d61c28b9791925469113008"
+    } ],
+    "uid" : "898ae0ed68d39ad6ee746aa1323b6003"
+  } ]
+}

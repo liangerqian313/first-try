@@ -1,0 +1,110 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "webdemo1",
+    "children" : [ {
+      "name" : "test_02",
+      "children" : [ {
+        "name" : "TestQuite",
+        "children" : [ {
+          "name" : "test02",
+          "uid" : "670a09909ba138b6",
+          "parentUid" : "fd252418db6465d90c06b530d9cf51d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647787904807,
+            "stop" : 1647787904807,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test01",
+          "uid" : "646164bf167a9652",
+          "parentUid" : "fd252418db6465d90c06b530d9cf51d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647787904809,
+            "stop" : 1647787904809,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test03",
+          "uid" : "e5d1ccc17218c14d",
+          "parentUid" : "fd252418db6465d90c06b530d9cf51d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647787904810,
+            "stop" : 1647787904810,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test04",
+          "uid" : "6af3f755f715cb90",
+          "parentUid" : "fd252418db6465d90c06b530d9cf51d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647787904811,
+            "stop" : 1647787904811,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fd252418db6465d90c06b530d9cf51d5"
+      } ],
+      "uid" : "43a3a64659ea239f636ecdeb4a1e6aef"
+    }, {
+      "name" : "test_03",
+      "children" : [ {
+        "name" : "TestDemo",
+        "children" : [ {
+          "name" : "正常流程",
+          "uid" : "cd03e7dc2bfabfa2",
+          "parentUid" : "b031a36275d3fba90cae8b4a7e327a63",
+          "status" : "broken",
+          "time" : {
+            "start" : 1647925823206,
+            "stop" : 1647925823238,
+            "duration" : 32
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "<comm.excel_Utils.CaseData object at 0x0000024E85C1DA60>" ]
+        } ],
+        "uid" : "b031a36275d3fba90cae8b4a7e327a63"
+      } ],
+      "uid" : "b223e8ee98fea3b069e3860e5961afc8"
+    } ],
+    "uid" : "5f20815403a3fec11def0445692c3df0"
+  } ]
+}

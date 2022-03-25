@@ -1,0 +1,51 @@
+[ {
+  "uid" : "6af3f755f715cb90",
+  "name" : "test04",
+  "time" : {
+    "start" : 1647787904811,
+    "stop" : 1647787904811,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5d1ccc17218c14d",
+  "name" : "test03",
+  "time" : {
+    "start" : 1647787904810,
+    "stop" : 1647787904810,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "646164bf167a9652",
+  "name" : "test01",
+  "time" : {
+    "start" : 1647787904809,
+    "stop" : 1647787904809,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "670a09909ba138b6",
+  "name" : "test02",
+  "time" : {
+    "start" : 1647787904807,
+    "stop" : 1647787904807,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd03e7dc2bfabfa2",
+  "name" : "正常流程",
+  "time" : {
+    "start" : 1647925823206,
+    "stop" : 1647925823238,
+    "duration" : 32
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
