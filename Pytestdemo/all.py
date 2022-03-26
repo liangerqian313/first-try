@@ -13,5 +13,5 @@ if __name__ == '__main__':
     ./temp  临时的json格式报告的路径
     -o  输出的output
     ./report  生成的allure报告的路径
-    --clean  清空 。/report路径原来的报告
+    --clean  清空 ./report路径原来的报告
     """

@@ -1,2 +1,0 @@
-DEBUG    urllib3.connectionpool:connectionpool.py:227 Starting new HTTP connection (1): cljj.kmdns.net:9005
-DEBUG    urllib3.connectionpool:connectionpool.py:452 http://cljj.kmdns.net:9005 "POST / HTTP/1.1" 200 341

@@ -5,7 +5,8 @@
 
 
 import pytest
-
+from comm.constants import BASE_DIR
+import os
 
 class TestQuite:
     def setup_class(self):
@@ -29,6 +30,9 @@ class TestQuite:
     def test04(self):
         print('退出第四步')
 
+    def test05(self):
+        print('退出第五步')
 
 if __name__ == '__main__':
     pytest.main(["-sv", "test_02.py"])
+    os.system('allure generate ../temp -o ../report --clean')
