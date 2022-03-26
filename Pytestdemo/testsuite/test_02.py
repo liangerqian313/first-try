@@ -36,6 +36,11 @@ class TestQuite:
     def test06(self):
         print('退出第六步')
 
+
+    def test07(self):
+        print('退出第七步')
+
+
 if __name__ == '__main__':
     pytest.main(["-sv", "test_02.py"])
     os.system('allure generate ../temp -o ../report --clean')
